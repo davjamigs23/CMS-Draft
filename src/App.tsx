@@ -165,7 +165,7 @@ export default function App() {
       <aside className="w-[260px] bg-[#0A1128] text-white flex flex-col shrink-0 overflow-y-auto">
         <div className="p-6">
           <h1 className="text-lg font-bold tracking-tight">IAE System</h1>
-          <p className="text-[10px] text-gray-400 uppercase tracking-widest mt-1">Course Shifting Module</p>
+          <p className="text-[10px] text-gray-400 uppercase tracking-widest mt-1">Course Management Module</p>
         </div>
 
         <div className="px-4 py-2">
@@ -268,7 +268,7 @@ export default function App() {
         <header className="px-10 py-10 bg-white sticky top-0 z-10 border-b border-gray-50">
           <div className="flex justify-between items-start">
             <div>
-              <h2 className="text-3xl font-bold text-[#0A1128]">Course Shifting System</h2>
+              <h2 className="text-3xl font-bold text-[#0A1128]">Course Management Subsystem</h2>
               <p className="text-sm text-gray-400 mt-1">
                 {role === "Admin Review" ? "Manage and review pending transfer requests" : "Submit and track your program transfer applications"}
               </p>

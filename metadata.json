@@ -1,6 +1,6 @@
 {
-  "name": "Course Shifting Subsystem",
-  "description": "Subsystem for managing and tracking student program transfer applications.",
+  "name": "Course Management Subsystem",
+  "description": "Core subsystem for managing course portfolios, instructor assignments, pricing, and student program shifts.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
