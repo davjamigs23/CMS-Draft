@@ -1,0 +1,6 @@
+{
+  "name": "Course Shifting Subsystem",
+  "description": "Subsystem for managing and tracking student program transfer applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
